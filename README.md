@@ -58,9 +58,9 @@ A full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express
 ### **Socket**
 1.Navigate to the socket folder:
    cd socket
-3. Install dependencies
+2. Install dependencies
    npm install
-4. .env file
+3. .env file
    PORT = 4000
-5. Start the Server
+4. Start the Server
    npm start
